@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "CROSS ROAD",
+  "base_artist": "Mr.Children",
+  "createdAt": "2026-03-09T10:47:17.636043Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cross Road Blues",
+      "artist": "Robert Johnson",
+      "has_synced": true,
+      "path": "select/01_Cross_Road_Blues_Robert_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cross Road Blues",
+      "artist": "Robert Johnson",
+      "has_synced": true,
+      "path": "select/02_Cross_Road_Blues_Robert_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cross Road Blues (Alternate Take)",
+      "artist": "Robert Johnson",
+      "has_synced": true,
+      "path": "select/03_Cross_Road_Blues_(Alternate_Take)_Robert_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cross Road Blues (Take 1)",
+      "artist": "Robert Johnson",
+      "has_synced": false,
+      "path": "select/04_Cross_Road_Blues_(Take_1)_Robert_Johnson.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cross Road Blues (SA.2629-1)",
+      "artist": "Robert Johnson",
+      "has_synced": false,
+      "path": "select/05_Cross_Road_Blues_(SA.2629-1)_Robert_Johnson.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cross Road Blues (SA.2629-2)",
+      "artist": "Robert Johnson",
+      "has_synced": true,
+      "path": "select/06_Cross_Road_Blues_(SA.2629-2)_Robert_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cross Road Blues (Take 1)",
+      "artist": "Robert Johnson",
+      "has_synced": true,
+      "path": "select/07_Cross_Road_Blues_(Take_1)_Robert_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cross Road Blues (Take 2)",
+      "artist": "Robert Johnson",
+      "has_synced": true,
+      "path": "select/08_Cross_Road_Blues_(Take_2)_Robert_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cross Road Blues - Live/ Previously Unreleased",
+      "artist": "Molly Hatchet",
+      "has_synced": false,
+      "path": "select/09_Cross_Road_Blues_-_Live__Previously_Unreleased_Molly_Hatchet.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cross Road Blues",
+      "artist": "Peter Green Splinter Group",
+      "has_synced": false,
+      "path": "select/10_Cross_Road_Blues_Peter_Green_Splinter_Group.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cross Road Blues (Live)",
+      "artist": "Molly Hatchet",
+      "has_synced": false,
+      "path": "select/11_Cross_Road_Blues_(Live)_Molly_Hatchet.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cross Road Blues",
+      "artist": "Jimmy Dawkins",
+      "has_synced": false,
+      "path": "select/12_Cross_Road_Blues_Jimmy_Dawkins.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cross Road Blues",
+      "artist": "Robert Johnson",
+      "has_synced": true,
+      "path": "select/13_Cross_Road_Blues_Robert_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Old Cross Road",
+      "artist": "Bill Monroe",
+      "has_synced": true,
+      "path": "select/14_The_Old_Cross_Road_Bill_Monroe.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "CROSS ROAD",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/15_CROSS_ROAD_Mr.Children.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CROSS ROAD",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_01_CROSS_ROAD_Mr.Children.txt"
+    }
+  ]
+}
